@@ -1,0 +1,6 @@
+pandas
+yfinance
+beutifulsoup4
+requests
+google-generativeai
+and google gemni API 
